@@ -2,7 +2,7 @@
 $font-family-sans-serif: "PT Sans" !default;
 
 // Crimson links #a51c30 #702963
-$link-color: #800080 !default;
+$link-color: #297036 !default;
 $link-hover-color: $link-color !default;
 
 // Import Bootstrap
@@ -45,7 +45,7 @@ img {
 
 // Crimson background, transparent text
 aside {
-    background-color: $link-color;
+    background-color: #702963;
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.125rem;
 }
