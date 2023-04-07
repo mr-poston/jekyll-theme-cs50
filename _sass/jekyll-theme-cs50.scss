@@ -20,6 +20,14 @@ html {
     font-size: 18px;
 }
 
+blockquote {
+    border-left-color: #fcffa4;
+    border-left-style: solid;
+    border-left-width: thick;
+    color: #f0e68c;
+    padding-left: 1rem;
+}
+
 // Defaults for iframes
 iframe {
     border: 0;
